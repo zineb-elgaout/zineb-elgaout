@@ -1,7 +1,11 @@
+<!-- En-tête avec animation de vagues et texte stylisé -->
 <div align="center">
-  <h1 align="center" style="font-family: 'Arial Black', sans-serif; color: #6e48aa; font-size: 2.5rem; margin-bottom: 10px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Zineb+EL-GAOUT&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" />
+</div>
+<div align="center">
+  <h1 align="center" style="font-family: 'Times New Roman'; color: #6e48aa; font-size: 2.5rem; margin-bottom: 10px;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=32&duration=3000&pause=1000&color=6E48AA&center=true&width=500&lines=Zineb+El-GAOUT;Ing%C3%A9nieure+Informatique;D%C3%A9veloppeuse+Full-Stack" alt="Titre animé" />
+      <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=32&duration=3000&pause=1000&color=6E48AA&center=true&width=500&lines=Ing%C3%A9nieure+Informatique;D%C3%A9veloppeuse+Full-Stack" alt="Titre animé" />
     </a>
   </h1>
 </div>
@@ -9,6 +13,16 @@
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=votreusername&color=9D50BB&style=flat-square)
+</div>
+
+<div align="center">
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-el-gaout-4086a432a/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zineb-elgaout?tab=repositories)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elgaoutzineb3@gmail.com)
+
 </div>
 
 <h1 align="center">👋 Bonjour, je suis Zineb El-GAOUT</h1>
@@ -21,14 +35,14 @@
 
 ---
 
-## 💼 À propos de moi
+## ✨ À propos de moi
 
-- 🔭 Je développe des projets académiques et personnels en **développement web & mobile**.
-- 💡 Actuellement, je me forme à **React** et au **JavaScript avancé**.
+-  Je développe des projets académiques et personnels en **développement web & mobile**.
+-  Actuellement, je me forme à **React** et au **JavaScript avancé**.
 
 ---
 
-## 🛠️ Compétences Techniques
+## ✨ Compétences Techniques
 
 ### 🔹 Langages
 
@@ -72,7 +86,7 @@
 
 ---
 
-### 🧠 Informatique Avancée
+### ✨ Informatique Avancée
 
 - **Structures de données** : listes, piles, files, arbres, graphes  
 - **Algorithmes** : Dijkstra, Algorithme des lucioles *(optimisation)*
@@ -80,54 +94,58 @@
 
 ---
 
-### 📊 Bureautique
+### ✨ Bureautique
 
 - **Microsoft Office** : Word, Excel, PowerPoint  
 - ⭐ Excellente en **PowerPoint** *(présentations dynamiques et structurées)*
 
 ---
 
-## 🌍 Langues
+## ✨ Langues
 
 | Langue    | Niveau        |
 |-----------|---------------|
-| 🇫🇷 Français | Avancé        |
-| 🇬🇧 Anglais  | Intermédiaire |
-| 🇲🇦 Arabe    | Natif         |
+|  Français | Avancé        |
+|  Anglais  | Intermédiaire |
+|  Arabe    | Natif         |
 
 ---
 
-## 🚀 Projets Académiques & Personnels
 
-| Projet                     | Description                                                  | Technologies                        |
-|----------------------------|--------------------------------------------------------------|-------------------------------------|
-| **Synergia**               | Application web pour la gestion collaborative de projets     | HTML, CSS, JS, Bootstrap, PHP       |
-| **Mchina**                 | Site web d’une app de transport sécurisé pour femmes         | HTML, CSS, JS                       |
-| **Optimisation Industrielle** | Optimisation avec l’algorithme des lucioles                   | Python                              |
-| **Statistique IA**         | Analyse des perceptions de l'IA dans l'enseignement supérieur | R, Analyse de données               |
+## ✨ Formation
 
----
-
-## 🎓 Formation
-
-- 🏫 **ENSA Kénitra** *(2022–2027)*  
+-  **ENSA Kénitra** *(2022–2027)*  
   *Cycle ingénieur : Génie Informatique*  
   *Cycle préparatoire intégré : 2022–2024*
 
-- 📜 **Certifications**
-  - *MIT – Python for Everybody* (2025)
-
+-  **Certifications**
+  *MIT – Python for Everybody* (2025)
+  *Compétition "AI for Safe Cities" organisée par EIC & JLM & DigiGirlz _ 2025*
 ---
 
-<div align="center">
+<!-- Statistiques GitHub animées -->
+<h2 align="center" style="color: #6E48AA;">✨ Activité GitHub ✨</h2>
 
-## 📫 Me contacter
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zineb-elgaout&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zineb-elgaout&theme=radical&hide_border=true" alt="Streak" width="48%"/>
+</div>
+
+<!-- Footer animé -->
+<div align="center" style="margin-top: 40px;">
+  <div align="center">
+
+##  Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-el-gaout-4086a432a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zineb-elgaout?tab=repositories)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elgaoutzineb3@gmail.com)
 
 </div>
----
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer" />
+</div>
+
+<div align="center">
 
 ✨ *Toujours prête à collaborer sur des projets innovants !*
+</div>
