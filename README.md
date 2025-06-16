@@ -42,10 +42,6 @@
 
 ---
 
-## 🖼️ Exemple d’affichage avec des badges (facultatif)
-
-Tu peux ajouter ceci si tu veux un affichage plus visuel :
-
 ### Langages
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
