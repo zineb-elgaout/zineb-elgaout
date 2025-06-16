@@ -69,9 +69,9 @@
 
 | Langue    | Niveau        |
 |-----------|---------------|
-| 🇫🇷 Français | Avancé        |
-| 🇬🇧 Anglais  | Intermédiaire |
-| 🇲🇦 Arabe    | Natif         |
+| Français | Avancé        |
+| Anglais  | Intermédiaire |
+| Arabe    | Natif         |
 
 
 
