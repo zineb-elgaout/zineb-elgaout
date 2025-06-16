@@ -10,10 +10,7 @@
   </h1>
 </div>
 
-
 <div align="center">
-
-## Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-el-gaout-4086a432a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zineb-elgaout?tab=repositories)
@@ -143,5 +140,5 @@ Toujours en quête d'apprentissage et d'innovation
 
 <div align="center">
 
-✨ *Toujours prête à collaborer sur des projets innovants !*✨
+✨ Toujours prête à collaborer sur des projets innovants !✨
 </div>
