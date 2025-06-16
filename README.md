@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Zineb El-GAOUT</h1>
 <p align="center">
   🎓 Étudiante en 1ère année cycle ingénieur - Génie Informatique @ ENSA Kénitra<br>
-  💻 Passionnée par le développement Web & Mobile | UI/UX Design | Réseaux | Optimisation<br>
+  💻 Passionnée par le développement Web & Mobile | UI/UX Design <br>
 </p>
 
 ---
@@ -17,18 +17,54 @@
 
 ## 🛠️ Compétences
 
-### Langages & Outils
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+### 💻 Langages de programmation
+- HTML, CSS, PHP, SQL, C, C++, Python, R, JavaScript *(débutante)*
+
+### 🧰 Frameworks & Outils
+- Bootstrap, Visual Studio Code, Git & GitHub, XAMPP, MySQL
+- Figma *(UI/UX Design)*, Cisco Packet Tracer, Proteus (ISIS), ANSYS
+
+### 🧠 Structures de données & Algorithmes
+- Listes, Piles, Files, Arbres, Graphes
+- Dijkstra, Algorithme des lucioles *(optimisation)*
+
+### 🧩 Méthodologies & Modélisation
+- UML, MCD (Modèle Conceptuel de Données), MLD (Modèle Logique de Données)
+
+### 🌐 Langues
+- 🇫🇷 Français 
+- 🇬🇧 Anglais  
+- 🇲🇦 Arabe (natif)
+
+### 🧑‍💼 Bureautique
+- Microsoft Word, Excel, PowerPoint  
+- ⭐ **Excellente en PowerPoint** *(présentations dynamiques et structurées)*
+
+---
+
+## 🖼️ Exemple d’affichage avec des badges (facultatif)
+
+Tu peux ajouter ceci si tu veux un affichage plus visuel :
+
+### Langages
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Outils
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 
 ---
 
