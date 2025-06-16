@@ -1,8 +1,7 @@
-<h1 align="center">👋 Hello, I'm Zineb El-Gaout</h1>
+<h1 align="center">👋 Hello, I'm Zineb El-GAOUT</h1>
 <p align="center">
   🎓 Étudiante en 1ère année cycle ingénieur - Génie Informatique @ ENSA Kénitra<br>
   💻 Passionnée par le développement Web & Mobile | UI/UX Design | Réseaux | Optimisation<br>
-  🌱 Actuellement en recherche d’un stage (Juillet - Août 2025)
 </p>
 
 ---
