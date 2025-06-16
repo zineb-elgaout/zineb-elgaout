@@ -9,11 +9,7 @@
     </a>
   </h1>
 </div>
-<!-- Badges animés -->
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=votreusername&color=9D50BB&style=flat-square)
-</div>
+
 
 <div align="center">
 
@@ -25,12 +21,12 @@
 
 </div>
 
-<h1 align="center">👋 Bonjour, je suis Zineb El-GAOUT</h1>
+<h1 align="center">✨ Bonjour, je suis Zineb EL-GAOUT ✨</h1>
 
 <p align="center">
-🎓 Étudiante en 1<sup>ère</sup> année du cycle ingénieur - Génie Informatique @ ENSA Kénitra<br>
-💻 Passionnée par le développement Web & Mobile | UI/UX Design<br>
-📚 Toujours en quête d'apprentissage et d'innovation
+Étudiante en 1<sup>ère</sup> année du cycle ingénieur - Génie Informatique @ ENSA Kénitra<br>
+Passionnée par le développement Web & Mobile | UI/UX Design<br>
+Toujours en quête d'apprentissage et d'innovation
 </p>
 
 ---
@@ -147,5 +143,5 @@
 
 <div align="center">
 
-✨ *Toujours prête à collaborer sur des projets innovants !*
+✨ *Toujours prête à collaborer sur des projets innovants !*✨
 </div>
