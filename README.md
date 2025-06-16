@@ -119,7 +119,7 @@
   *Cycle préparatoire intégré : 2022–2024*
 
 -  **Certifications**
-  *MIT – Python for Everybody* (2025)
+  *MIT – Python for Everybody* (2025)*
   *Compétition "AI for Safe Cities" organisée par EIC & JLM & DigiGirlz _ 2025*
 ---
 
