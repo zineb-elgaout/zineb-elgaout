@@ -118,8 +118,8 @@
   *Cycle ingénieur : Génie Informatique*  
   *Cycle préparatoire intégré : 2022–2024*
 
--  **Certifications**
-  *MIT – Python for Everybody* (2025)*
+-  **Certifications**<br>
+  *MIT – Python for Everybody (2025)*<br>
   *Compétition "AI for Safe Cities" organisée par EIC & JLM & DigiGirlz _ 2025*
 ---
 
