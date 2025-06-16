@@ -10,8 +10,8 @@
 
 - 🔭 Je travaille sur des projets académiques et personnels liés au **développement web et mobile**.
 - 🌍 Je m'intéresse aux **technologies vertes**, à l'**intelligence artificielle appliquée à l'éducation**.
-- 💡 J’aime combiner **design (Figma)**, **code (PHP, Laravel, Bootstrap)** et **performance (optimisation par métaheuristiques)**.
-- 📚 Toujours curieuse d’apprendre de nouvelles technologies, actuellement je découvre **Flutter** et **JavaScript avancé**.
+- 💡 J’aime combiner **design (Figma)**, **code** et **performance**.
+- 📚 Toujours curieuse d’apprendre de nouvelles technologies, actuellement je découvre **React** et **JavaScript avancé**.
 
 ---
 
