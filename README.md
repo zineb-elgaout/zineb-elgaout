@@ -26,12 +26,6 @@ Passionnée par le développement Web & Mobile | UI/UX Design<br>
 Toujours en quête d'apprentissage et d'innovation
 </p>
 
----
-
-## ✨ À propos de moi
-
--  Je développe des projets académiques et personnels en **développement web & mobile**.
--  Actuellement, je me forme à **React** et au **JavaScript avancé**.
 
 ---
 
