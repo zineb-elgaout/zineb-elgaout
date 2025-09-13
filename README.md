@@ -110,13 +110,6 @@ Toujours en quête d'apprentissage et d'innovation
   *Compétition "AI for Safe Cities" organisée par EIC & JLM & DigiGirlz _ 2025*
 ---
 
-<!-- Statistiques GitHub animées -->
-<h2 align="center" style="color: #6E48AA;">✨ Activité GitHub ✨</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zineb-elgaout&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zineb-elgaout&theme=radical&hide_border=true" alt="Streak" width="48%"/>
-</div>
 
 <!-- Footer animé -->
 <div align="center" style="margin-top: 40px;">
