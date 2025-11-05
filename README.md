@@ -4,10 +4,15 @@
 
 *computer engineer student · full-stack developer · ui/ux designer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-el-gaout)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elgaoutzineb3@gmail.com)
+<a href="www.linkedin.com/in/zineb-el-gaout-4086a432a">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:elgaoutzineb3@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+</a>
 
----
+<br>
+<br>
 
 ### ✦ tech stack ✦
 
