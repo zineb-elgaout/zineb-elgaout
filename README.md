@@ -4,7 +4,7 @@
 
 *computer engineer student · full-stack developer · ui/ux designer*
 
-<a href="www.linkedin.com/in/zineb-el-gaout-4086a432a">
+<a href="https://www.linkedin.com/in/zineb-el-gaout-4086a432a">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="mailto:elgaoutzineb3@gmail.com">
