@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Zineb El-Gaout ✦
+# ✦ Zineb EL-GAOUT ✦
 
 *computer engineer student · full-stack developer · ui/ux designer*
 
