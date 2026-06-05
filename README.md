@@ -40,48 +40,51 @@
       <strong>toontime</strong>
       <br/>
       movie & cartoon discovery platform.  
-      2FA , modern ui, category filtering, admin dashboard, favorite page , editors space , api backend.
+      2FA, modern ui, category filtering, admin dashboard, favorite page, editors space, api backend.
       <br/>
       <code>react</code> <code>tailwind</code> <code>asp.net core</code>
       <br/><br/>
     </td>
     <td width="50%" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="26" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="26" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="26" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="26" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="26" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="26" />
       <br/><br/>
-      <strong>synergia</strong>
+      <strong>school management api</strong>
       <br/>
-      web collaboration prototype.  
-      auth system, project pages, and responsive ui.
+      mern stack student management system.  
+      student crud, soft delete/restore, csv export, statistics, api key protection, swagger docs.
       <br/>
-      <code>html</code> <code>css</code> <code>js</code> <code>php</code>
+      <code>react</code> <code>express</code> <code>mongodb</code> <code>tailwind</code>
       <br/><br/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <br/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="55" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="26" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="26" />
       <br/><br/>
-      <strong>soho network</strong>
+      <strong>travel planning app</strong>
       <br/>
-      enterprise-style network simulation.  
-      vlans, routing, switching, testing.
+      mobile travel discovery platform.  
+      destination browsing, trip planning, saved favorites, photo gallery, universal cross-platform support.
       <br/>
-      <code>cisco packet tracer</code>
+      <code>react native</code> <code>expo</code> <code>typescript</code>
       <br/><br/>
     </td>
     <td width="50%" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="26" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="26" />
       <br/><br/>
-      <strong>ai in education study</strong>
+      <strong>medical image classification</strong>
       <br/>
-      statistical analysis on ai adoption in higher education.
+      deep learning medical imaging analysis.  
+      resnet50 & efficientnet-b0 models, oct & x-ray classification, transfer learning, comparative study.
       <br/>
-      <code>r</code> <code>statistics</code> <code>data analysis</code>
+      <code>python</code> <code>tensorflow</code> <code>scikit-learn</code> <code>jupyter</code>
       <br/><br/>
     </td>
   </tr>
