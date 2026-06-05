@@ -43,6 +43,10 @@
       2FA, modern ui, category filtering, admin dashboard, favorite page, editors space, api backend.
       <br/>
       <code>react</code> <code>tailwind</code> <code>asp.net core</code>
+      <br/>
+      <a href="https://github.com/zineb-elgaout/movie-app-project-react-tailwind">
+        <img src="https://skillicons.dev/icons?i=github" alt="View Repository" width="20" />
+      </a>
       <br/><br/>
     </td>
     <td width="50%" valign="top">
@@ -57,6 +61,10 @@
       student crud, soft delete/restore, csv export, statistics, api key protection, swagger docs.
       <br/>
       <code>react</code> <code>express</code> <code>mongodb</code> <code>tailwind</code>
+      <br/>
+      <a href="https://github.com/zineb-elgaout/School-Management-API-MERN-Stack">
+        <img src="https://skillicons.dev/icons?i=github" alt="View Repository" width="20" />
+      </a>
       <br/><br/>
     </td>
   </tr>
@@ -72,6 +80,10 @@
       destination browsing, trip planning, saved favorites, photo gallery, universal cross-platform support.
       <br/>
       <code>react native</code> <code>expo</code> <code>typescript</code>
+      <br/>
+      <a href="https://github.com/zineb-elgaout/Travel-planning-mobile-app-React-Expo">
+        <img src="https://skillicons.dev/icons?i=github" alt="View Repository" width="20" />
+      </a>
       <br/><br/>
     </td>
     <td width="50%" valign="top">
@@ -85,12 +97,22 @@
       resnet50 & efficientnet-b0 models, oct & x-ray classification, transfer learning, comparative study.
       <br/>
       <code>python</code> <code>tensorflow</code> <code>scikit-learn</code> <code>jupyter</code>
+      <br/>
+      <a href="https://github.com/zineb-elgaout/Medical-Image-Classification-ResNet50-EfficientNet-B0">
+        <img src="https://skillicons.dev/icons?i=github" alt="View Repository" width="20" />
+      </a>
       <br/><br/>
     </td>
   </tr>
 </table>
 
+<br/>
 
+<div align="center">
+  <a href="https://github.com/zineb-elgaout?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-000?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+  </a>
+</div>
 
 ---
 
